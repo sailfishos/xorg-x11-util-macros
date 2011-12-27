@@ -4,7 +4,7 @@ Description: |
     This is a set of autoconf macros used by the configure.ac scripts individual
     other Xorg modular packages, and is needed to generate new versions
     of their configure scripts with autoconf.
-Version: 1.14.0
+Version: 1.16.0
 Release: 0
 Group: Development/System
 License: The Open Group License
@@ -13,4 +13,5 @@ Sources:
     - http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.bz2
 
 Configure: configure
-Provides: xorg-macros
+Provides: 
+    - xorg-macros
