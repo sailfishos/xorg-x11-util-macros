@@ -7,7 +7,7 @@
 
 Name:       xorg-x11-util-macros
 Summary:    X.Org X11 Autotools macros
-Version:    1.16.0
+Version:    1.17
 Release:    0
 Group:      Development/System
 License:    The Open Group License
@@ -62,5 +62,3 @@ rm -rf %{buildroot}
 %{_datadir}/pkgconfig/xorg-macros.pc
 %{_datadir}/util-macros/INSTALL
 # << files
-
-
