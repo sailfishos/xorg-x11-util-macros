@@ -1,3 +1,6 @@
+* Tue Jan 5 2016 Andrea Bernabei <and.bernabei@gmail.com> - 1.17.0
+- Update to version 1.17
+
 * Tue Dec 27 2011 Marko Saukko <marko.saukko@cybercom.com> - 1.16.0
 - Update to version 1.16.0
 
@@ -21,4 +24,3 @@
 
 * Thu Dec 18 2008 Peng Li <peng.li@intel.com> 1.2.1
 - use spec builder to generate spec file
-
