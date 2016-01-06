@@ -13,7 +13,6 @@ Group:      Development/System
 License:    The Open Group License
 URL:        http://www.x.org
 Source0:    http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.bz2
-Source100:  xorg-x11-util-macros.yaml
 Provides:   xorg-macros
 
 
